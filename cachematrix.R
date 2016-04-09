@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
 
-## Write a short comment describing this function
 
   makeCacheMatrix <- function(x = matrix()) { ## define the argument with default mode of "matrix"
     inv <- NULL                             ## initialize inv as NULL; will hold value of matrix inverse 
